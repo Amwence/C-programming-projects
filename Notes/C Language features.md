@@ -54,4 +54,17 @@
 4. Executing
     - In most IDEs, you'll find an appropriate menu command that allows you to run or execute your compiled program
         - Otherwise double click the exe file or type a.out on the console in linux manually
-    - 
+    - The execution stage is where you run your program
+        - each of the statements of the program is sequentially executed in turn
+        - If the program requests any data from the user the program temporarily suspends its execution so t6hat the input can be entered
+        - Results that are displayed by the program (output) appears in a window called console
+
+    - This stage can produce a wide variety of error conditions
+        - producing the wrong output
+        - just sitting there and doing nothing
+        - crashing your computer
+
+    - If the program does not perform the intedned functionality then it will be necessary to go back and reanalyze the program's logic
+        - Known as the debugging phase, correct all known problems or bugs from the program
+        - Will need to make changes to the original source program
+        - The entire process of compiling, linking, and executing the program must be repeated until the desired results are obtained
