@@ -12,3 +12,7 @@
     - many preprocessing directives
     - are usually some at the beginning of the program source file, but they can be anywhere
     - similar to the import statement in java
+
+- In the above example, the compiler is instructed to "include" in your program the contents of the file with the name stdio.h
+    - Called a header file because it is usually included at the head of a program source file
+    - .h extension
