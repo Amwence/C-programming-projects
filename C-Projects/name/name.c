@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-// int main(void) is a function and void is a keyword that means the function does not take any arguments
+// int main() is a function and void is a keyword that means the function does not take any arguments
 int main(void)
 {
     /*printf is like python's print() function and every instruction needs to end with a ; 
