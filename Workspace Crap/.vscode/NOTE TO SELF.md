@@ -1,0 +1,1 @@
+# Learn to setup your own workspace and how to create your own evironment/visual studio code workspace. The tutorial was trash.
