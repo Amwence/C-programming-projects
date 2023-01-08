@@ -6,7 +6,7 @@
     {
       "label": "build hello world",
       "type": "shell",
-      "command": "gcc"
+      "command": "gcc",
       "args": [
         "-g" ,
         "-o",
