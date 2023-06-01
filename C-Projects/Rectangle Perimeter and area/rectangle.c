@@ -21,8 +21,8 @@ int main(){
     //print results
     printf("The area of the rectangle is: %.2lf\n", rectangleArea); //rounded to the second decimal
     printf("The perimiter of the rectangle is: %.2lf\n", rectanglePerimiter); // rounded to the second decimal
-    printf(" The AREA is %f ::: The PERIMITER is %f ::: The HEIGHT is %f ::: The WIDTH is %f\n", rectangleArea, rectanglePerimiter, rectangleHeight, rectangleWidth); // all in one print statement
-    printf(" The AREA is %f \n The PERIMITER is %f \n The HEIGHT is %f \n The WIDTH is %f\n", rectangleArea, rectanglePerimiter, rectangleHeight, rectangleWidth); // all in one print statement on new lines
+    printf(" The AREA is %lf ::: The PERIMITER is %lf ::: The HEIGHT is %lf ::: The WIDTH is %lf\n", rectangleArea, rectanglePerimiter, rectangleHeight, rectangleWidth); // all in one print statement
+    printf(" The AREA is %lf \n The PERIMITER is %lf \n The HEIGHT is %lf \n The WIDTH is %lf\n", rectangleArea, rectanglePerimiter, rectangleHeight, rectangleWidth); // all in one print statement on new lines
     
     return 0;
 }
